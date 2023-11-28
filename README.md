@@ -8,11 +8,8 @@ Authors: Joshua Fang and Huijun Mao
 3. [Folder Structure](#folder-structure)
 4. [Installation & Usage Instructions](#installation-&-usage-instructions)
 5. [Dataset](#dataset)
-6. [Data Science Pipeline](#data-science-pipeline)
-7. [Results and Discussion](#results-and-discussion)
-8. [Contributors](#contributors)
 
-9. ## Project Description
+## Project Description
 Our goal is to create a recommender system by training models to predict the best Sephora skincare product based on customer physical attributes. For now, we focus on moisturizers only. If time permits, we will add other skincare product categories, like sunscreen, to create a more comprehensive recommender system.
 
 ## Prerequisites
