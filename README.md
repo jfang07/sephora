@@ -40,7 +40,7 @@ pip install scikit-learn
 pip install os
 pip install warnings
 ```
-5. Execute the code provided in sephora.ipynb as required. 
+5. Execute the code provided in `sephora.ipynb` as required. 
 
 ### Dataset
 Source: https://www.kaggle.com/datasets/nadyinky/sephora-products-and-skincare-reviews
