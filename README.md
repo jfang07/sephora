@@ -40,7 +40,7 @@ pip install scikit-learn
 pip install os
 pip install warnings
 ```
-5. Execute the code provided in sephora.ipynb as required. See README in Defining Metrics and Web Dashboard folders for further detailed installation instructions.
+5. Execute the code provided in sephora.ipynb as required. 
 
 ### Datasets
 Source: https://www.kaggle.com/datasets/nadyinky/sephora-products-and-skincare-reviews
