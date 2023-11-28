@@ -10,7 +10,7 @@ Authors: Joshua Fang and Huijun Mao
 5. [Dataset](#dataset)
 
 ## Project Description
-Our goal is to create a recommender system by training models to predict the best Sephora skincare product based on customer physical attributes. For now, we focus on moisturizers only. If time permits, we will add other skincare product categories, like sunscreen, to create a more comprehensive recommender system.
+Our goal is to create a recommender system by training models to predict the best Sephora skincare product for a given category based on customer physical attributes. For now, we focus on moisturizers only. If time permits, we will add other skincare product categories, like sunscreen, to create a more comprehensive recommender system.
 
 ## Prerequisites
 - Matplotlib
@@ -22,14 +22,14 @@ Our goal is to create a recommender system by training models to predict the bes
 - warnings
 
 ## Folder Structure
-sephora.ipynb: this is the Jupyter Notebook used to generate all results.
-READ.md: this file provides directions on how to obtain the data and run the code.
+* `sephora.ipynb`: this is the Jupyter Notebook used to generate all results.
+* `README.md`: this file provides directions on how to obtain the data and run the code.
 
 ## Installation & Usage Instructions
 1. Download the data from https://www.kaggle.com/datasets/nadyinky/sephora-products-and-skincare-reviews to the your local machine. 
-2. Extract all contents of archive.zip.
+2. Extract all contents of `archive.zip` to a folder with the same name.
 3. Clone repository to your local machine: <br>
-`git clone https://github.com/RiceD2KLab/sephora.git
+`git clone https://github.com/RiceD2KLab/sephora.git`
 4. Install dependencies with the following commands:
 ```
 pip install matplotlib
@@ -42,7 +42,7 @@ pip install warnings
 ```
 5. Execute the code provided in sephora.ipynb as required. 
 
-### Datasets
+### Dataset
 Source: https://www.kaggle.com/datasets/nadyinky/sephora-products-and-skincare-reviews
 
 This dataset was collected via Python scraper in March 2023 and contains:
