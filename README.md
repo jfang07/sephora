@@ -21,7 +21,7 @@ Our goal is to create a recommender system by training models to predict the bes
 - os
 - warnings
 
-## Contents
+## Folder Structure
 sephora.ipynb: this is the Jupyter Notebook used to generate all results.
 READ.md: this file provides directions on how to obtain the data and run the code.
 
