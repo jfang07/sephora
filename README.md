@@ -1,4 +1,4 @@
-# Predicting the best Sephora skincare product based on customer physical attributes
+# Predicting the best Sephora skincare moisturizer based on customer physical attributes
 ## DSCI 303: Machine Learning for Data Science
 Authors: Joshua Fang and Huijun Mao
 
@@ -10,7 +10,7 @@ Authors: Joshua Fang and Huijun Mao
 5. [Dataset](#dataset)
 
 ## Project Description
-Our goal is to create a recommender system by training models to predict the best Sephora skincare product for a given category based on customer physical attributes. For now, we focus on moisturizers only. If time permits, we will add other skincare product categories, like sunscreen, to create a more comprehensive recommender system.
+Our goal is to create a recommender system by training models to predict the best Sephora moisterizer based on customer physical attributes.
 
 ## Prerequisites
 - Matplotlib
